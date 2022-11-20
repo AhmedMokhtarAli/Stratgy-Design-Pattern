@@ -1,0 +1,14 @@
+Duck\Behavior\NoFly.class
+Duck\Behavior\Walk.class
+Duck\Behavior\Quack.class
+Duck\Behavior\WalkBehavior.class
+Duck\PilastikDuck.class
+Duck\Behavior\Fly.class
+com\mycompany\stratgy\Stratgy.class
+Duck\DummyDuck.class
+Duck\Behavior\FlyBehavior.class
+Duck\Behavior\NoWalk.class
+Duck\Duck.class
+Duck\Behavior\QuackBehavior.class
+Duck\Behavior\NoQuack.class
+Duck\CityDuck.class
